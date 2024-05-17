@@ -15,6 +15,10 @@ The aim of this project is to demonstrate how to convert an image to grayscale u
 8. Clean up allocated memory.
 
 ## Program:
+```
+NAME : L B L JAYAKRISHNAN
+REG NO : 212222230052
+```
 
 ```cuda c
 #include "cuda_runtime.h"
